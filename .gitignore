@@ -1,3 +1,9 @@
+# ignore the gitconfig
+.gitconfig
+
+# ignore the program
+jpache
+
 # Prerequisites
 *.d
 
